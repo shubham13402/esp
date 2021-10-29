@@ -47,7 +47,7 @@ String epass = "";
 //Establishing Local server at port 80 whenever required
 WebServer server(80);
 
-String FirmwareVer = { "1.0" };
+String FirmwareVer = { "1.1" };
 #define URL_fw_Version "https://raw.github.com/shubham13402/esp/bin_version.txt"
 #define URL_fw_Bin "https://raw.github.com/shubham13402/esp/fw.bin"
 
