@@ -48,8 +48,8 @@ String epass = "";
 WebServer server(80);
 
 String FirmwareVer = { "1.1" };
-#define URL_fw_Version "https://raw.github.com/shubham13402/esp/bin_version.txt"
-#define URL_fw_Bin "https://raw.github.com/shubham13402/esp/fw.bin"
+#define URL_fw_Version "https://raw.githubusercontent.com/shubham13402/esp/bin_version.txt"
+#define URL_fw_Bin "https://raw.githubusercontent.com/shubham13402/esp/fw.bin"
 
 //#define URL_fw_Version "http://cade-make.000webhostapp.com/version.txt"
 //#define URL_fw_Bin "http://cade-make.000webhostapp.com/firmware.bin"
